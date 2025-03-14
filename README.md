@@ -28,15 +28,22 @@ Este proyecto es ideal para pequeñas reuniones o grupos que quieran hacer un so
 ## Capturas del juego
 <br>
 
-![Captura de pantalla 2025-03-13 224044](https://github.com/user-attachments/assets/33af4d2f-5967-454e-8039-42b1f1cdd389)
+![Captura de pantalla 2025-03-13 224009](https://github.com/user-attachments/assets/8b4835ec-0304-4e7d-9af8-b3f720080080)
 <br>
 <br>
-![Captura de pantalla 2025-03-13 224035](https://github.com/user-attachments/assets/7dea1fc2-d152-4c03-95ce-9fd04feb1463)
+
+![Captura de pantalla 2025-03-13 224035](https://github.com/user-attachments/assets/a78ae4a4-6dcb-4fee-9aed-de1a2d774ab8)
+
 <br>
 <br>
-![Captura de pantalla 2025-03-13 224009](https://github.com/user-attachments/assets/ceda4a4d-626f-4466-864e-7b7a6505cde0)
+
+![Captura de pantalla 2025-03-13 224044](https://github.com/user-attachments/assets/4dfc67c1-667a-456f-8c7f-063c50fd6172)
 
 ### Video demostrativo
 
-https://github.com/user-attachments/assets/20a98ffe-0b90-4806-aaa5-51c7e2c43b84
+
+
+https://github.com/user-attachments/assets/b10ce57f-bcb0-4192-8172-066ad0ac3cb1
+
+
 
